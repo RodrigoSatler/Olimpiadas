@@ -22,20 +22,3 @@ Se você também é apaixonado por judô e quer ajudar a melhorar essa aplicaç�
 
 **[Adicionar uma imagem legal de um judoca fazendo um ippon aqui!]**
 
-**Observações:**
-
-* **Personalize:** Adapte o texto para deixar com a sua cara e incluir mais detalhes sobre o projeto, como a fonte dos dados, desafios enfrentados e futuras melhorias.
-* **Imagens:** Adicione imagens divertidas de judocas ou do seu projeto para deixar o README mais atrativo.
-* **Links:** Inclua links para os seus perfis nas redes sociais ou para outros projetos relacionados.
-
-**Lembre-se:** O README.md é a porta de entrada para o seu projeto. Use-o para explicar de forma clara e concisa o que o projeto faz e como ele pode ser útil para outras pessoas.
-
-**Gostou?** Que tal experimentar outras opções de escrita e deixar o seu README.md ainda mais incrível? 
-
-**## Outras opções:**
-
-* **Mais técnico:** Se você prefere um tom mais técnico, pode detalhar a arquitetura da aplicação, as bibliotecas utilizadas e os padrões de desenvolvimento.
-* **Humor:** Use um tom mais humorístico para deixar o README mais leve e divertido.
-* **Histórias:** Conte a história do projeto e como ele surgiu.
-
-**Qual estilo você prefere?** Me diga e eu posso te ajudar a criar um README.md perfeito para o seu projeto!
