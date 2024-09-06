@@ -20,5 +20,3 @@ Se você também é apaixonado por judô e quer ajudar a melhorar essa aplicaç�
 
 **Vamos juntos construir a maior comunidade de fãs de judô do Brasil!** 🇧🇷
 
-**[Adicionar uma imagem legal de um judoca fazendo um ippon aqui!]**
-
