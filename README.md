@@ -1,4 +1,4 @@
-## **Busca de Atletas de Judô: Seu Portal para os Heróis do Tatame!**
+## **Busca de Atletas de Judô: Seu Portal para os Heróis do Tatame!** - Imersão Dev com Google Gemini
 
 **Quer saber tudo sobre os melhores judocas do Brasil?** Essa aplicação é a sua faixa preta para encontrar informações sobre seus atletas favoritos!
 
